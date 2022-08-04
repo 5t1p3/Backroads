@@ -69,10 +69,7 @@ ul {
 a {
   text-decoration: none;
 }
-/* img {
-  width: 100%;
-  display: block;
-} */
+
 img:not(.nav-logo) {
   width: 100%;
   display: block;
@@ -135,7 +132,7 @@ p {
   padding: 0.375rem 0.75rem;
   letter-spacing: var(--spacing);
   display: inline-block;
-  /* font-weight: 700; */
+
   -webkit-transition: var(--transition);
   transition: var(--transition);
   font-size: 0.875rem;
@@ -353,9 +350,7 @@ Hero
 About
 ===============
 */
-/* section add to globals */
-/* title add to globals */
-/* section center add to globals */
+
 .about-img,
 .about-info {
   margin-bottom: 2rem;
